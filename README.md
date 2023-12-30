@@ -1,2 +1,4 @@
 # qbcd1
-Causal Direction inference by the Prediction Bias of Quantile Regression
+Causal Direction Inference by the Prediction Bias of Quantile Regression
+This package is about inferring the causal direction between two variables (X→Y or Y→X)
+from a dataset about two variables X and Y.
