@@ -1,3 +1,0 @@
-## Python Dependencies
-- numpy
-- pandas
